@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_19c44f5c125a5c6ef03383b6004c6887a455e1d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_c78e08f1239fed5d14f02892d7d5da92ad7a77cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_1ec1de27dfa31a5bb404839cdd56fa1b525ac1d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_5bc6f33a50ec60e71d30359888a11ee1aec89205/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.2/baseLibrary-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e3519b9d5287840df40776a8268ae336ca9f063">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.2_7ed53c723ae13fdba19a1b45153e478d184e8ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_47ab48a5a1edfa62b3fb29a449f7961590252220/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_7894a2deb9f1becd3de95937c597be678237f5b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_e75d378f55520eafb3c7bf5bf452328ffd775fb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_a67e747266c69475bf4c099c8564824ce7530ce9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_c2fb61bd58a8b0e6bb5f5b14a9e70f6aa700cc5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8520def21dc639f9e17629a51a56666f23e51805">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fc7dab5b523ff61e203724504cdee6007ae87b49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_dafd9e13009e765301d92282ba55e6c89da3392f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_cd1c4562a27fcee671c1aa16439d8d6d6f692d36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_192a65c5e2f991f2d67d355a08eced368250ad66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_c33fafa9524c3f2b4980a59df2119b0b836d7cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_d90d7ce28693f5d68ea0f14ef714f126e695d77e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_d569115cdcfdf8fa17b42b82e18b297942f94615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f7f8e796d20d182b432ff3617de6f7e67f42d96b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_9e8e90bd2fc08abd90c9b30df23514b4230a4fb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.4.0_d556fa3a7a53e14c61dec1fe167d240df07ed15f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9b5e1bb2b4d3848a308251fca6ac497072da16e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_2eadcc6a000e13b50b35b0db170c4ae0e062509d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d16e73cb93533b5d7c03c250aa76a4c4d241df2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.7/f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb/dagger-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.7_d833f13bde73df36838e9dde70a13da38af08caf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_06531c680f24025609c062dbf646194b415b5433/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.8/f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5/rxjava-1.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.8_bab163ed9e92a48005239178b713d01b9618dffa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d280e88bde8ab062829536a9396f1ef9e4c9c490">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_33b550778a4380cb35e56a6866702e84d76b11cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_824cc9b4a184287adf86655376d880de8475fcfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_6608279e69facee988a7af628945cc847ffc5334/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d80f4b370e6d2efb1663cb1e855d6c583c3eed81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_2f802acc261383299df942f9b9f145959b5d50e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_ee60ae6fea3371651686041bdbad8adb4195f188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_f2045677e8c9510c53b20aff1c1c24701c0360c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_93b365372939dbb3f540a52f461f63e0a1381b59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_78a1ee293569416c33851601783b502782c45b56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_d8aaa435d7d786759ba15c9d9febc11d0a7c69b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/www/androidStudioWS/PlayingWithFragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_b158c1b8162d280a616d8fe6eee006437deea359/classes.dex" />
+    </item>
+
+</items>
