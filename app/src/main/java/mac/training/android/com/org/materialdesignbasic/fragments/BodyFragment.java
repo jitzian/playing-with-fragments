@@ -119,7 +119,7 @@ public class BodyFragment extends Fragment {
         layoutManager = new LinearLayoutManager(getContext());
         mPhotoRecyclerView.setLayoutManager(layoutManager);
 
-        Observable<ResultPixabay> observablePixabay = restService.getImages("4015571-2ff16680f01f66ea8bb97c14b", "technology", "image_type");
+        Observable<ResultPixabay> observablePixabay = restService.getImages("4015571-2ff16680f01f66ea8bb97c14b", "photography", "image_type");
 
         observablePixabay.subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
